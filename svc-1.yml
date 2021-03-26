@@ -6,5 +6,5 @@ spec:
   selector:
     app: hello
   ports:
-    - port: 8000
+    - port: 8200
       targetPort: 8000
